@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-15T07:21:25 IST" name="Default suite" finished-at="2025-06-15T07:21:32 IST" duration-ms="6704">
+    <groups>
+    </groups>
+    <test started-at="2025-06-15T07:21:25 IST" name="Default test" finished-at="2025-06-15T07:21:32 IST" duration-ms="6704">
+      <class name="pageObject.ProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pageObject.ProductTest@f5958c9]" started-at="2025-06-15T07:21:25 IST" name="setup" finished-at="2025-06-15T07:21:29 IST" duration-ms="3239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductDetails()[pri:1, instance:pageObject.ProductTest@f5958c9]" started-at="2025-06-15T07:21:29 IST" name="verifyProductDetails" finished-at="2025-06-15T07:21:29 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetails -->
+        <test-method signature="testAddToCart()[pri:2, instance:pageObject.ProductTest@f5958c9]" started-at="2025-06-15T07:21:29 IST" name="testAddToCart" finished-at="2025-06-15T07:21:29 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method signature="testViewCart()[pri:3, instance:pageObject.ProductTest@f5958c9]" started-at="2025-06-15T07:21:29 IST" name="testViewCart" finished-at="2025-06-15T07:21:32 IST" duration-ms="3017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testViewCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:pageObject.ProductTest@f5958c9]" started-at="2025-06-15T07:21:32 IST" name="teardown" finished-at="2025-06-15T07:21:32 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- pageObject.ProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
